@@ -21,4 +21,4 @@ sustentables que contribuyan al bienestar de la comunidad.
 
 ### Logo
 
-![Logo TRASPATIO](logo-traspatio.png)
+![Logo TRASPATIO]( IMG20260524082006.jpg)
